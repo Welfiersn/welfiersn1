@@ -1,0 +1,27 @@
+@font-face {
+    font-family: Playfair Display Black;
+    src: local(Playfair Display Black), url(playfairdisplay-black.woff);
+}
+
+
+@font-face {
+    font-family: Playfair Display Bold;
+    src: local(Playfair Display Bold), url(playfairdisplay-bold.woff);
+}
+
+@font-face {
+    font-family: Playfair Display Regular;
+    src: local(Playfair Display Regular), url(playfairdisplay-regular.woff);
+}
+
+
+@font-face {
+    font-family: Roboto Black;
+    src: local(Roboto Black), url(Roboto-Black.woff);
+}
+
+
+@font-face {
+    font-family: Roboto Light;
+    src: local(Roboto Light), url(roboto-light.woff);
+}
